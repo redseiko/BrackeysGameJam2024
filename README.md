@@ -10,8 +10,12 @@
 
 ### DOTween
 
-  * Install from the AssetStore
-    * [DOTween (HOTween v2)](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)
+  * [DOTween (HOTween v2)](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)
   * Using version: `1.2.765`
   * Setup DOTween
     * Menubar > Tools > Demigiant > DOTween Utility Panel > Setup DOTween > Apply
+
+### GitHub Repos
+
+  * [Unity-SerializeReferenceExtensions](https://github.com/mackysoft/Unity-SerializeReferenceExtensions)
+  * [Eflatun.SceneReference](https://github.com/starikcetin/Eflatun.SceneReference)
