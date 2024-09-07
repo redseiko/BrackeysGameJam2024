@@ -1,0 +1,19 @@
+{
+    "name": "GameJam",
+    "rootNamespace": "",
+    "references": [
+        "DOTween.Modules",
+        "Eflatun.SceneReference",
+        "MackySoft.SerializeReferenceExtensions",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
