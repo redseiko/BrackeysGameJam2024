@@ -1,10 +1,11 @@
 {
     "name": "GameJam",
-    "rootNamespace": "",
+    "rootNamespace": "GameJam",
     "references": [
         "DOTween.Modules",
         "Eflatun.SceneReference",
         "MackySoft.SerializeReferenceExtensions",
+        "Unity.InputSystem",
         "Unity.TextMeshPro"
     ],
     "includePlatforms": [],
