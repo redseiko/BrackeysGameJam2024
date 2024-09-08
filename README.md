@@ -19,3 +19,4 @@
 
   * [Unity-SerializeReferenceExtensions](https://github.com/mackysoft/Unity-SerializeReferenceExtensions)
   * [Eflatun.SceneReference](https://github.com/starikcetin/Eflatun.SceneReference)
+  * [UIEffect](https://github.com/redseiko/UIEffect) (fork)
