@@ -482,7 +482,7 @@ GameObject:
   m_Component:
   - component: {fileID: 121488527678061080}
   - component: {fileID: 9008634352911822535}
-  - component: {fileID: 2957474624742598979}
+  - component: {fileID: 9070463132956051644}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -519,7 +519,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6207783235749612789}
   m_CullTransparentMesh: 1
---- !u!114 &2957474624742598979
+--- !u!114 &9070463132956051644
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -528,7 +528,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 6207783235749612789}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Script: {fileID: 11500000, guid: abd738bbf86ffb841abef20f988d70fc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   m_Navigation:
@@ -562,19 +562,10 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 0}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: GameJam.InputManager, GameJam
-        m_MethodName: OnButtonClick
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
+  <OnPointerDownClick>k__BackingField:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &6483953643798207854
 GameObject:
   m_ObjectHideFlags: 0
