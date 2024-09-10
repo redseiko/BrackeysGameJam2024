@@ -5,6 +5,7 @@
         "DOTween.Modules",
         "Eflatun.SceneReference",
         "MackySoft.SerializeReferenceExtensions",
+        "UIEffect",
         "Unity.InputSystem",
         "Unity.TextMeshPro"
     ],
