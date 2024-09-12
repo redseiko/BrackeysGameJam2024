@@ -7,7 +7,8 @@
         "MackySoft.SerializeReferenceExtensions",
         "UIEffect",
         "Unity.InputSystem",
-        "Unity.TextMeshPro"
+        "Unity.TextMeshPro",
+        "YoloBox"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
